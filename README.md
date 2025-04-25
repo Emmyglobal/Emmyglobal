@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### ✍️ About Me :
 
 - I'm looking to collaborate on projects and offer the best i can 👾.
-- I'm very jovial and get acquainted with people quickly 😋🤖.
+- I get acquainted with people quickly 😋🤖.
 - I love learning new things and open to learning new things from you also 🌱🌱.
-- I'm a Pythonist.
+- I'm a Pythonist, I play with JavaScript too
 - I'm a Technical writer. Check up my articles on [Medium](https://medium.com/p/bac1f72222b4/edit)
-- Just a Cool Fun fact, I speak English and Spanish😋😋
+- Just a Cool Fun fact, I speak English, Yoruba and Ibo😋😋
 
 ---
 
