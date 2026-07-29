@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ### Hello! I'm Nwafor Ugochukwu!
+  ### Hello! Am Nwafor Ugochukwu!
 
   <img src="https://komarev.com/ghpvc/?username=certifieddonnie&style=plastic&color=blueviolet" alt=""/>
   
